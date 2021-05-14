@@ -39,7 +39,7 @@ With Javascript, web developers can manipulate the DOM; in this tutorial, toggle
 
 
 ## Preview Project: 
-* [InstinctHub.github.io](https://instincthub.github.io/employee_directory/)
+* [InstinctHub.github.io](https://instincthub.github.io/employee-directory/)
 
 ## Credit: 
 * Created By: [InstinctHub.com](https://instincthub.com/)
