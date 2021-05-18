@@ -1,6 +1,6 @@
 # Responsive Navbar with HTML, CSS and Javascript
 
-In this lesson, I will show you how to create a responsive navbar. In other to do this, I made the UI version in Adobe XD which will serve as the project guide throughout the short lesson. 
+In this lesson, I will show you how to create a responsive em. In other to do this, I made the UI version in Adobe XD which will serve as the project guide throughout the short lesson. 
 
 To get along quickly with this course, you will need basic HTML, CSS, and JavaScript knowledge.
 
@@ -13,8 +13,6 @@ So, let us dive into it!
 
 
 ## CSS 
-To make your website visitors search through the list of employees, we customised our search input and make it look great. 
-
 
 These are some of the declaration in CSS you will get used to after the lesson: 
 * [CSS Positioning](https://www.w3schools.com/css/css_positioning.asp)
