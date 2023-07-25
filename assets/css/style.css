@@ -224,9 +224,12 @@ footer p{
 footer .footer-icons {
     display: flex;
     justify-content: space-between;
-    padding-bottom: 20px;
     max-width: 250px;
-    margin-left: 0px;
+    background-color: #BC658D;
+    border-radius: 15px;
+    border: 1px solid #fff;
+    margin:auto;
+    padding: 13px;
 }
 footer .footer-icons img {
     width: 18px;
