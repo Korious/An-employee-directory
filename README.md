@@ -40,6 +40,8 @@ With Javascript, web developers can manipulate the DOM; in this tutorial, toggle
 * [Fake person generator](https://www.fakepersongenerator.com/employment-generator?new=refresh0)
 * [Random user photo generator](https://randomuser.me/photos)
 * [Prototyping, Flowchart and Mind map](https://mockitt.wondershare.com/)
-## Credit: 
-* Created By: [InstinctHub.com](https://instincthub.com/)
+
+
+<!-- ## Credit: 
+* Created By: [InstinctHub.com](https://instincthub.com/) -->
 ![Employee Directory](employee-directory.png "Employee Directory")
