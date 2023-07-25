@@ -34,13 +34,12 @@ With Javascript, web developers can manipulate the DOM; in this tutorial, toggle
 * [HTML DOM children Property](https://www.w3schools.com/jsref/prop_element_children.asp)
 * [JavaScript HTML DOM EventListener](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
 
-
-
 ## Preview Project: 
-* [InstinctHub.github.io](https://instincthub.github.io/employee-directory/)
-
+* [https://korious.github.io/An-employee-directory/]()
+## Resources
+* [Fake person generator](https://www.fakepersongenerator.com/employment-generator?new=refresh0)
+* [Random user photo generator](https://randomuser.me/photos)
+* [Prototyping, Flowchart and Mind map](https://mockitt.wondershare.com/)
 ## Credit: 
 * Created By: [InstinctHub.com](https://instincthub.com/)
-
-
 ![Employee Directory](employee-directory.png "Employee Directory")
