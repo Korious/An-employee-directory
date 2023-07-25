@@ -44,7 +44,7 @@ form.search_form i{
     color: #C6C6C6;
 }
 .employee_listing .employee{
-    padding: 40px 15px;
+    padding: 40px 25px;
     background-color: #fff;
     box-shadow: 1px 1px 30px rgba(0 0 0 / .1);
     margin-bottom: 20px;
@@ -64,6 +64,9 @@ form.search_form i{
     color: #00808f;
     margin-bottom: 0;
     line-height: 0;
+}
+.employee_listing .employee .position{
+    font-weight: 290;
 }
 .employee_listing .employee .job_type{
     font-weight: 900;

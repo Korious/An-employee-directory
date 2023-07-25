@@ -195,6 +195,7 @@ footer{
     border-top: 1px solid rgba(00 84 80 / .2);
     padding-top: 50px;
     margin-top: 10vh;
+    margin-bottom: 20px;
 }
 footer .resource_links{
     display: flex;
@@ -229,12 +230,17 @@ footer .footer-icons {
     border-radius: 15px;
     border: 1px solid #fff;
     margin:auto;
-    padding: 13px;
+    padding: 9px 15px;
 }
 footer .footer-icons img {
-    width: 18px;
+    width: 15px;
 }
-footer .footer-icons a:nth-child(1),
+
+footer .footer-icons .footer-icons-image:hover {
+background-color: rgba(255, 255, 255, 0.397);
+padding:25%;
+}
+/* footer .footer-icons a:nth-child(1),
 footer .footer-icons a:nth-child(6) {
     margin-top: 3px;
-}
+} */
