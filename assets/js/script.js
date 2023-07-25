@@ -8,7 +8,7 @@ const displayEmployees = (values) =>{
         const job_type = element.children[3].innerHTML.toUpperCase();
 
         if (name.includes(values) || position.includes(values) || job_type.includes(values)){
-            element.style.display = "block"
+            element.style.display = "inline"
         }
     })
 }
