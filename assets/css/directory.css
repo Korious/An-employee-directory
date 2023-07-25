@@ -44,7 +44,7 @@ form.search_form i{
     color: #C6C6C6;
 }
 .employee_listing .employee{
-    padding: 40px;
+    padding: 40px 15px;
     background-color: #fff;
     box-shadow: 1px 1px 30px rgba(0 0 0 / .1);
     margin-bottom: 20px;
@@ -52,7 +52,7 @@ form.search_form i{
     margin-left: auto;
     border-radius: 5px;
     text-align: center;
-    width: 100%;
+    white-space: nowrap;
 }
 .employee_listing .employee img{
     width: 100px;
@@ -82,6 +82,7 @@ form.search_form i{
     background-color: #BC658D;
     border: 1px solid #fff;
 }
+
 
 @media (min-width: 768px){
     .employee_listing{
